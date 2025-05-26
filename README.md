@@ -4,7 +4,7 @@
 
 Please follow the steps below to set up the necessary libraries, frameworks, and data, and to train and evaluate the models.
 
-Dataset link: https://figshare.com/s/7e858bb1c98bbba706b4
+Dataset link: [Data](https://figshare.com/s/7e858bb1c98bbba706b4)
 
 ## Ollama with LLM Model Installation
 
@@ -107,7 +107,7 @@ Here's a clear and concise improved version:
 Locate the folders containing state-of-the-art (SOTA) models:
 
 * **SchNet**
-* **DimeNet**
+* **DimeNet++**
 * **Equiformer**
 * **FAENet**
 
@@ -135,3 +135,5 @@ python calc_Avg.py
 * CPU: AMD Ryzen Threadripper PRO 3975WX 32-Cores
 
 * GPU: NVIDIA RTX A6000
+
+This repository utilizes PyG for SchNet, DimeNet++, and QM9 dataset. The official [Equiformer](https://github.com/atomicarchitects/equiformer) and [FAENet](https://github.com/vict0rsch/faenet/tree/main) repositories utilized for the implementations.
