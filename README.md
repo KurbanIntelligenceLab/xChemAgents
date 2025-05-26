@@ -1,10 +1,8 @@
-# Code Repository for the Study of Multi-Agent Systems in Materials Science
-
-**Paper:** *Agentic AI for Materials Science: Cooperative Language Agents for Explainable Quantum Chemistry*
+# Official Implementation of 'Agentic AI for Materials Science: Cooperative Language Agents for Explainable Quantum Chemistry'
 
 Please follow the steps below to set up the necessary libraries, frameworks, and data, and to train and evaluate the models.
 
-Dataset link: [Data](https://figshare.com/s/7e858bb1c98bbba706b4)
+Parsed Dataset link: [Data](https://figshare.com/s/7e858bb1c98bbba706b4) with results.
 
 ## Ollama with LLM Model Installation
 
