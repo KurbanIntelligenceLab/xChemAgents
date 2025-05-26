@@ -1,4 +1,4 @@
-# Official Implementation of 'Agentic AI for Materials Science: Cooperative Language Agents for Explainable Quantum Chemistry'
+# Official Implementation of 'xChemAgents: Agentic AI for Explainable Quantum Chemistry'
 
 Please follow the steps below to set up the necessary libraries, frameworks, and data, and to train and evaluate the models.
 
